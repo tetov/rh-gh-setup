@@ -16,8 +16,11 @@ Repo with my config for Rhinoceros and Grasshopper
 *  [Milliepede](http://www.sawapan.eu/)
 *  [Anemone](http://www.food4rhino.com/app/anemone)
 *  [Octopus](http://www.food4rhino.com/app/octopus)
+*  [Plankton](https://github.com/meshmash/Plankton)
 
 
 ## Links
 *  [hydrashare](https://hydrashare.github.io/hydra/)
 *  [My fork of hydrashare](https://github.com/sonyamamurin/hydra)
+
+Don't use goo.
