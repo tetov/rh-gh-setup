@@ -3,10 +3,12 @@ Repo with my config for Rhinoceros and Grasshopper
 
 ## Files
 ### `Hydra_ExportFile.ghuser`
-File > Special Folders > User Object Folder, drag & drop into folder.
+*  [Source](https://github.com/HydraShare/hydra/)
+*  Location: File > Special Folders > User Object Folder, drag & drop into folder.
 
 ### `WireDisplayToggle.gh`
-Drag & drop in Grasshopper window, select the C# block File > Create User Object
+*  [Source](http://www.grasshopper3d.com/profiles/blogs/wire-display-toggle-switch)
+*  Location: Drag & drop in Grasshopper window, select the C# block File > Create User Object
 
 
 ## Links
