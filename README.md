@@ -32,6 +32,7 @@ Repo with my config for Rhinoceros and Grasshopper
 *  [Octopus](http://www.food4rhino.com/app/octopus)
 *  [Plankton](https://github.com/meshmash/Plankton)
 *  [Mesh tools](http://www.grasshopper3d.com/forum/topics/mesh-pipe)
+*  [Boid](http://www.food4rhino.com/app/boid-library)
 
 ## Links
 *  [hydrashare](https://hydrashare.github.io/hydra/)
