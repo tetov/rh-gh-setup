@@ -1,4 +1,4 @@
-# tetov-rhinograsshopper-settings
+# rh-gh-setup 
 Repo with my config for Rhinoceros and Grasshopper
 
 ## Files
