@@ -25,12 +25,18 @@ Repo with my config for Rhinoceros and Grasshopper
 *  `_Options` > Rhino Options > Aliases > Import
 
 ## Grasshopper plugins
+
+### Install through `TestPackageManager`
+
 *  [WeaverBird - Topological Mesh Editor](http://www.giuliopiacentino.com/weaverbird/)
 *  [Kangaroo Physics](http://www.food4rhino.com/app/kangaroo-physics)
+*  [Plankton](https://github.com/meshmash/Plankton)
+
+### Install manually
+
 *  [Milliepede](http://www.sawapan.eu/)
 *  [Anemone](http://www.food4rhino.com/app/anemone)
 *  [Octopus](http://www.food4rhino.com/app/octopus)
-*  [Plankton](https://github.com/meshmash/Plankton)
 *  [Mesh tools](http://www.grasshopper3d.com/forum/topics/mesh-pipe)
 *  [Boid](http://www.food4rhino.com/app/boid-library)
 *  [Human](https://www.food4rhino.com/app/human)
