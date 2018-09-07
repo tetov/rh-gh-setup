@@ -1,4 +1,4 @@
-# rh-gh-setup 
+# rh-gh-setup Rhino 6 branch
 Repo with my config for Rhinoceros and Grasshopper
 
 ## Files
@@ -37,7 +37,6 @@ Repo with my config for Rhinoceros and Grasshopper
 *  [Milliepede](http://www.sawapan.eu/)
 *  [Anemone](http://www.food4rhino.com/app/anemone)
 *  [Octopus](http://www.food4rhino.com/app/octopus)
-*  [Mesh tools](http://www.grasshopper3d.com/forum/topics/mesh-pipe)
 *  [Boid](http://www.food4rhino.com/app/boid-library)
 *  [Human](https://www.food4rhino.com/app/human)
 *  [MetaHopper](https://www.food4rhino.com/app/metahopper)
