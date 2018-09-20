@@ -42,6 +42,9 @@ Repo with my config for Rhinoceros and Grasshopper
 *  [MetaHopper](https://www.food4rhino.com/app/metahopper)
 *  [Heteroptera](https://www.food4rhino.com/app/heteroptera)
 *  [Lunchbox](https://www.food4rhino.com/app/lunchbox)
+*  [Dendro](https://www.food4rhino.com/app/dendro)
+*  [Pufferfish](https://www.food4rhino.com/app/pufferfish)
+*  [Cocoon](http://www.bespokegeometry.com/2015/07/22/cocoon/)
 
 ## Links
 *  [hydrashare](https://hydrashare.github.io/hydra/)
