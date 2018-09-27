@@ -43,9 +43,10 @@ Repo with my config for Rhinoceros and Grasshopper
 *  [Heteroptera](https://www.food4rhino.com/app/heteroptera)
 *  [Lunchbox](https://www.food4rhino.com/app/lunchbox)
 *  [Dendro](https://www.food4rhino.com/app/dendro)
-  *  Need to disable "Memory load \*.GHA assemblies using COFF byte arrays" in `GrasshopperDeveloperSettings` (from Rhino).
+   - Need to disable "Memory load \*.GHA assemblies using COFF byte arrays" in `GrasshopperDeveloperSettings` (from Rhino).
 *  [Pufferfish](https://www.food4rhino.com/app/pufferfish)
 *  [Cocoon](http://www.bespokegeometry.com/2015/07/22/cocoon/)
+*  [MeshEdit](https://www.food4rhino.com/app/meshedit)
 
 ## Links
 *  [hydrashare](https://hydrashare.github.io/hydra/)
