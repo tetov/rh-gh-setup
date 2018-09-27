@@ -47,6 +47,7 @@ Repo with my config for Rhinoceros and Grasshopper
 *  [Pufferfish](https://www.food4rhino.com/app/pufferfish)
 *  [Cocoon](http://www.bespokegeometry.com/2015/07/22/cocoon/)
 *  [MeshEdit](https://www.food4rhino.com/app/meshedit)
+   - Don't install Plankton files, only Meshedit2000.gha
 
 ## Links
 *  [hydrashare](https://hydrashare.github.io/hydra/)
