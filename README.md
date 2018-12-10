@@ -51,6 +51,8 @@ Repo with my config for Rhinoceros and Grasshopper
 *  [Fox](https://www.food4rhino.com/app/fox)
 *  [MeshMachine Static](https://www.grasshopper3d.com/xn/detail/2985220:Comment:1841560)
 *  [Droid](https://www.food4rhino.com/app/droid)
+*  [Riched Graph Mapper](https://www.food4rhino.com/app/riched-graph-mapper)
+*  [IntraLattice](https://www.food4rhino.com/app/intralattice)
 
 ## Links
 *  [hydrashare](https://hydrashare.github.io/hydra/)
