@@ -53,6 +53,7 @@ Repo with my config for Rhinoceros and Grasshopper
 *  [Droid](https://www.food4rhino.com/app/droid)
 *  [IntraLattice](https://www.food4rhino.com/app/intralattice)
 *  [Ladybug & Honeybee](https://www.food4rhino.com/app/ladybug-tools)
+   - [Installation instructions](https://github.com/mostaphaRoudsari/ladybug/wiki/Installation-Instructions)
 
 ## Links
 *  [hydrashare](https://hydrashare.github.io/hydra/)
