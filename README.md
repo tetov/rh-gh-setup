@@ -54,6 +54,9 @@ Repo with my config for Rhinoceros and Grasshopper
 *  [IntraLattice](https://www.food4rhino.com/app/intralattice)
 *  [Ladybug & Honeybee](https://www.food4rhino.com/app/ladybug-tools)
    - [Installation instructions](https://github.com/mostaphaRoudsari/ladybug/wiki/Installation-Instructions)
+*  [Clipper](https://www.food4rhino.com/app/clipper-grasshopper-and-rhino)
+*  [Bifocals](https://www.food4rhino.com/app/bifocals)
+*  [AutoAnnotate.py](https://gist.github.com/yuhan0/3c6ef309ef3205e972ac6eeaed32383c)
 
 ## Links
 *  [hydrashare](https://hydrashare.github.io/hydra/)
