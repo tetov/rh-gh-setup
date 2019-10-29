@@ -57,6 +57,6 @@ Repo with my config for Rhinoceros and Grasshopper
 *  [Clipper](https://www.food4rhino.com/app/clipper-grasshopper-and-rhino)
 *  [Bifocals](https://www.food4rhino.com/app/bifocals)
 *  [AutoAnnotate.py](https://gist.github.com/yuhan0/3c6ef309ef3205e972ac6eeaed32383c)
-*  [Robots](https://github.com/visose/Robots)
+*  [Telepathy](https://www.food4rhino.com/app/telepathy)
 
 Don't use goo.
